@@ -1,3 +1,0 @@
-# jekyllsite
-
-My Jekyll  site.

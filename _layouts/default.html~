@@ -31,6 +31,8 @@
 <a href="publications.html"><strong>Publications</strong></a>
 </br>
 <a href="dissertations.html"><strong>Projects</strong></a>
+</br>
+<a href="contact.html"><strong>Contact</strong></a>
       </header>
         {{ content }}
 
