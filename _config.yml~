@@ -23,4 +23,7 @@ dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
 markdown: redcarpet
+<<<<<<< HEAD
 exclude: ['README.md']
+=======
+>>>>>>> 6465c49eee1b8012415f865dca19d3b2c85e938d
