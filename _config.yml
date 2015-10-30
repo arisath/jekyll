@@ -22,4 +22,4 @@ facebook_username:    example  # Replace this with your Facebook username
 dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
