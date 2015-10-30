@@ -1,6 +1,6 @@
 # Site settings
 
-title: Strata # Title of your site
+title: Aristeidis Athanasiou # Title of your site
 email: your-email@domain.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/jekyll" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://arisath.github.io/jekyll" # the base hostname & protocol for your site
 
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
