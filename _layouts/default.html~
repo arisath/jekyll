@@ -21,7 +21,7 @@
 	<body id="top">
 
       <header id="header">
-          <a href="#" class="image avatar"><img src="{{site.baseurl}}/images/avatar.jpg" alt="" /></a>
+          <a href="#" class="image avatar"><img src="{{ site.baseurl }}/images/avatar.jpg" alt="" /></a>
           <h1><strong>Aristeidis Athanasiou</a></strong></h1>
 
 
