@@ -1,10 +1,41 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
-
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
-
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
-
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+<img src="/images/fulls/03.jpg" class="fit image"> Bob Jones The BBC reported. Must be true then. ( sarcasm ). The BBC wouldn't report truth even if you gave it to them.
+Like · Reply · 39 · 11 hrs
+Henry Commons
+Henry Commons I am Satoshi Nakamoto and I created Bitcoin.
+Like · Reply · 16 · 10 hrs
+8 Replies · 2 hrs
+Francis Baez
+Francis Baez The guy had 1 million bitcoin of the first mined
+Like · Reply · 25 mins
+Jay Patel
+Jay Patel Will the real Satoshi Nakamoto please stand up,
+Please stand up,
+Please stand up ..
+Like · Reply · 7 · 9 hrs
+Jakub Horbaj
+Jakub Horbaj I'll tell you what. if he is not going to be in my future kids history books I don't know what else should be.
+Like · Reply · 3 · 10 hrs
+Damir Lumis Zorčič
+Damir Lumis Zorčič he's a fog cooking chef, not Satoshi
+Like · Reply · 2 · 11 hrs
+Joval Yu
+Joval Yu I'm Dr. Heinz Doofenshmirtz and I'm the co-creator of Bitcoin.
+Like · Reply · 1 · 2 hrs
+Derek Wade
+Derek Wade Its more believable that i am the creator of bitcoin lol
+Like · Reply · 1 · 10 hrs
+Galeno Garbe
+Galeno Garbe My name is John Snow, once I'm back to life again I shall reveal: I'm Satoshi Nakamoto!
+Like · Reply · 1 · 9 hrs
+1 Reply
+Emmanuel Joseph Ariza
+Emmanuel Joseph Ariza i thought satoshi nakamoto is a japanese not that looking Aussies
+Like · Reply · 28 mins · Edited
+Divyansh Mishra
+Divyansh Mishra I know...these days people believe whatever Ankit Fadia says aswell wink emoticon
+Like · Reply · 1 · 9 hrs
+Lokesh Sah
+Lokesh Sah Time for the real Satoshi to stand up, like emoticon
