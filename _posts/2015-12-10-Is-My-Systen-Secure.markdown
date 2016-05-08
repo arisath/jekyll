@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<img src="https://dl.dropboxusercontent.com/u/24331723/Matr.gif" class="fit image">
+<img src="https://dl.dropboxusercontent.com/u/24331723/morphresize.jpg" class="fit image">
 
 <p>
 When I tell people I am in Information Security, they typically ask me "I am using this and that blah blah, is my system secure?" and they 
