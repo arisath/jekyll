@@ -1,6 +1,6 @@
 ---
 layout: post
 ---
-<img src="images/rsz_the-matrix-trilogy-screensaver.jpg" class="fit image">
+<img src="/jekyll/images/rsz_the-matrix-trilogy-screensaver.jpg" class="fit image">
 
  Welcome to my Blog, here I am going to periodically post articles around Information Security. The articles are going to deal with the fundamentals of Computer and Network Security, rather than commenting on the latest InfoSec news. My ambition is to help people interested in Information Security understanding some of its fundamental concepts, as well as raising security awareness. I will try to keep the articles as non-tech friendly as possible, because I believe Privacy and Security concern everyone. However, from time to time I am going to post some tutorials on how to user some Security-related tools or demostrating some attacks against known vulnerabilities.
