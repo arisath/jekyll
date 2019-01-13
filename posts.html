@@ -19,7 +19,7 @@ layout: default
 {% for post in site.posts offset:1 %}
 <article class="{% cycle '6u', '6u$' %} 12u(small)">
 <header>
-<h2><a href="{{ site.baseurl }}{{/post.url}}">{{ post.title }}</a></h2>
+<h2><a href="{{ site.baseurl }}{{post.url}}">{{ post.title }}</a></h2>
 </header>
 <section>
 {{ post.excerpt }}
