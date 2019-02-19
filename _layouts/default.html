@@ -1,79 +1,89 @@
 <!DOCTYPE html>
 <html>
-  	<head>
-  		<title>Aristeidis Athanasiou</title>
-  		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  		<meta name="description" content="" />
-  		<meta name="keywords" content="" />
-        <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/matrixHead.png">
+<head>
+    <title>Aristeidis Athanasiou</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/matrixHead.png">
 
-        <!--[if lte IE 8]><script src="{{site.baseurl}}/css/ie/html5shiv.js"></script><![endif]-->
-  		<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-  		<script src="{{ site.baseurl }}/js/jquery.poptrox.min.js"></script>
-  		<script src="{{ site.baseurl }}/js/skel.min.js"></script>
-  		<script src="{{ site.baseurl }}/js/init.js"></script>
-  		<noscript>
-  			<link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
-  			<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
-  			<link rel="stylesheet" href="{{ site.baseurl }}/css/style-xlarge.css" />
-  		</noscript>
-  		<!--[if lte IE 8]><link rel="stylesheet" href="{{site.baseurl}}/css/ie/v8.css" /><![endif]-->
-    </head>
+    <!--[if lte IE 8]>
+    <script src="{{site.baseurl}}/css/ie/html5shiv.js"></script><![endif]-->
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery.poptrox.min.js"></script>
+    <script src="{{ site.baseurl }}/js/skel.min.js"></script>
+    <script src="{{ site.baseurl }}/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css"/>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css"/>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/style-xlarge.css"/>
+    </noscript>
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="{{site.baseurl}}/css/ie/v8.css"/><![endif]-->
+</head>
 
-	<body id="top">
+<body id="top">
 
-      <header id="header">
-          <a href="#" class="image avatar"><img src="{{ site.baseurl }}/images/avatar.jpg" alt="" /></a>
-          <h1><strong>Aristeidis Athanasiou</a></strong></h1>
+<header id="header">
+    <a href="#" class="image avatar"><img src="{{ site.baseurl }}/images/avatar.jpg" alt=""/></a>
+    <h1><strong>Aristeidis Athanasiou</a></strong></h1>
 
 
-</br></br></br>
-<a href="{{site.baseurl}}/index.html"><strong>Home</strong> </a>
-</br>
-<a href="{{site.baseurl}}/posts.html"><strong>Blog</strong></a>
-</br>
-<a href="{{site.baseurl}}/publications.html"><strong>Publications</strong></a>
-</br>
-<a href="{{site.baseurl}}/dissertations.html"><strong>Projects</strong></a>
-</br>
-<a href="{{site.baseurl}}/contact.html"><strong>Contact</strong></a>
-      </header>
-        {{ content }}
+    </br></br></br>
+    <a href="{{site.baseurl}}/index.html"><strong>Home</strong> </a>
+    </br>
+    <a href="{{site.baseurl}}/posts.html"><strong>Blog</strong></a>
+    </br>
+    <a href="{{site.baseurl}}/publications.html"><strong>Publications</strong></a>
+    </br>
+    <a href="{{site.baseurl}}/dissertations.html"><strong>Projects</strong></a>
+    </br>
+    <a href="{{site.baseurl}}/contact.html"><strong>Contact</strong></a>
+</header>
+{{ content }}
 
-        <!-- Footer -->
-        <footer id="footer">
-            <ul class="icons">
+<!-- Footer -->
+<footer id="footer">
+    <ul class="icons">
 
-              {% if site.github_username %}
-              <li>
-                <a href="https://github.com/arisath" class="icon fa-github">
-                  <span class="label">GitHub</span>
-                </a>
-              </li>
-              {% endif %}
+        {% if site.github_username %}
+        <li>
+            <a href="https://github.com/arisath" class="icon fa-github">
+                <span class="label">GitHub</span>
+            </a>
+        </li>
+        {% endif %}
 
-              {% if site.linkedin_username %}
-              <li>
-                <a href="    https://uk.linkedin.com/pub/aristeidis-athanasiou/89/411/75" class="icon fa-linkedin">
-                  <span class="label">LinkedIn</span>
-                </a>
-              </li>
-              {% endif %}
+        {% if site.linkedin_username %}
+        <li>
+            <a href="    https://uk.linkedin.com/pub/aristeidis-athanasiou/89/411/75" class="icon fa-linkedin">
+                <span class="label">LinkedIn</span>
+            </a>
+        </li>
+        {% endif %}
 
-              {% if site.email %}
-              <li>
-                <a href="mailto:arist.athanas@gmail.com" class="icon fa-envelope-o">
-                  <span class="label">Email</span>
-                </a>
-              </li>
-              {% endif %}
-            </ul>
-            <ul class="copyright">
-                <li>&copy; 2019<i>
-                <li>Powered by Jekyll</li>
-            </ul>
-        </footer>
+        {% if site.linkedin_username %}
+        <li>
+            <a href="    https://www.youracclaim.com/users/aristeidis-athanasiou/badges" class="icon fa-certificate" aria-hidden="true">
+                <span class="label">Acclaim</span>
+            </a>
+        </li>
+        {% endif %}
 
-	</body>
+        {% if site.email %}
+        <li>
+            <a href="mailto:arist.athanas@gmail.com" class="icon fa-envelope-o">
+                <span class="label">Email</span>
+            </a>
+        </li>
+        {% endif %}
+    </ul>
+    <ul class="copyright">
+        <li>&copy; 2019<i>
+        <li>Powered by Jekyll</li>
+    </ul>
+</footer>
+
+</body>
 
 </html>
